@@ -15,4 +15,6 @@ So buckle up, because we're about to take you on a data-driven journey through t
   <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/EzIK.gif" width="800"/>
 </a>
 
+<br>
+
 ### Check out the files in the folder 📂⬆️
