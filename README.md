@@ -12,7 +12,7 @@ By crunching the numbers, we're aiming to not only help car manufacturers set be
 
 So buckle up, because we're about to take you on a data-driven journey through the world of automobile pricing! 🌟 
 <a target="">
-  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/EzIK.gif" width="800"/>
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/EzIK.gif" width="1000"/>
 </a>
 
 <br>
